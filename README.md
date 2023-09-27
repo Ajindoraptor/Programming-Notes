@@ -118,3 +118,27 @@ Regular Expression (Regex): A sequence of characters that defines a search patte
 Comprehension: A concise way to create collections in Python using a single line of code, such as list, set, and dictionary comprehensions.
 
 GIL (Global Interpreter Lock): A mechanism used by the CPython interpreter to ensure that only one thread executes Python bytecode at a time, which can be a bottleneck in CPU-bound and multithreaded code.
+
+Input: the process of receiving data or user input from the keyboard or another input device and storing it as a string or other data type for further processing in your program.
+
+Int: a data type used to represent whole numbers. Integers in Python can be positive or negative and have no decimal point.
+
+float: a data type used to represent real numbers with a decimal point or numbers in scientific notation.
+
+Type Conversion: the process of changing the data type of a value from one type to another.
+
+Comparison operators: compare two values or expressions and determine their relationship. 
+
+Logical operators: used to manipulate and evaluate Boolean values (True or False).
+
+if, else, elif: are control flow statements used for conditional execution.
+
+While Loop: a control flow statement that repeatedly executes a block of code as long as a specified condition remains True. The while loop is used for tasks where you want to repeat a set of instructions until a certain condition is no longer met. It's often used when you don't know in advance how many times the loop needs to run.
+
+For Loop:  a control flow statement used for iterating over a sequence (such as a list, tuple, string, or range) or any iterable object. 
+
+Break: a control flow statement used within loops (such as for and while loops) to terminate the loop prematurely. 
+
+Functions: a reusable block of code that performs a specific task or set of tasks. 
+
+PIP: a package manager, which is a command-line tool used for installing, managing, and uninstalling Python packages or libraries.
